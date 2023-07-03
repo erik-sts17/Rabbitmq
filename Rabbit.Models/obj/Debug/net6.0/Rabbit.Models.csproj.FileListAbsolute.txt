@@ -1,0 +1,24 @@
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.deps.json
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.AssemblyReference.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfo.cs
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\refint\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Erik\Documents\Estudos\Rabbitmq - Primeiro projeto\Rabbit.Models\obj\Debug\net6.0\ref\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.deps.json
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\bin\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.AssemblyReference.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfoInputs.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.AssemblyInfo.cs
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\refint\Rabbit.Models.dll
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\Rabbit.Models.pdb
+C:\Users\Erik\Documents\Estudos\Rabbitmq\Rabbit.Models\obj\Debug\net6.0\ref\Rabbit.Models.dll
